@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Dancing+Script&family=Edu+NSW+ACT+Foundation&family=Gajraj+One&family=Lobster&family=Oswald&family=Pacifico&family=Philosopher:ital,wght@1,700&family=Poppins&family=Satisfy&family=Tilt+Prism&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("https://source.unsplash.com/random/900×700/?sky");
+    background-size: cover;
+}
+
+.navbar {
+    background-color: #3cdb44;
+}
+.card{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-body{
+    /* display: flex;
+    align-items: center; */
+}
+.content{
+    font-family: 'Dancing Script', cursive;
+}
+h5{
+    height: 20px;
+    background-color: #fff;
+}
